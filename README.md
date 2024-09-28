@@ -27,17 +27,19 @@ cd Random-Plex-Movie
 
     Windows 
 
-    `pip install -r requirements.txt`
+     apt install python3
+     sudo apt install python3-pip
+    `pip3 install -r requirements.txt`
 
     MacOS and Linux
 
     `pip3 install -r requirements.txt`
 
-3. Change config file with your Plex credentials. 
+2. Change config file with your Plex credentials. 
 
     ![alt text](https://i.imgur.com/Y7WjVLb.jpg "Third step of the installation")
 
-4. Run Python file with this command
+3. Run Python file with this command
 
     Windows (CMD)
 
